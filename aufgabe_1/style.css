@@ -1,0 +1,12 @@
+.btn{
+	padding: 20px 50px;
+}
+.btn #schwarz{
+	display: none;
+}
+.btn--zustand #schwarz{
+	display: inline;
+}
+.btn--zustand #durchsichtig{
+	display: none;
+}
